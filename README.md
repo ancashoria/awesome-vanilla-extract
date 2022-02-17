@@ -40,3 +40,4 @@
 **Legend**: 🧁 Official resource · 🍰 Sample · 🥣 Setup Tutorial · 🎬 Video Tutorial · 🎓 Component or Page Tutorial
 
 - 🥣 🎓 [Theming a React Application with Vanilla Extract](https://formidable.com/blog/2021/vanilla-extract/) - Learn about theming using Vanilla Extract
+- 🥣 [CSS in TypeScript with Vanilla Extract](https://css-tricks.com/css-in-typescript-with-vanilla-extract/) - Introductory article to the ecosystem
