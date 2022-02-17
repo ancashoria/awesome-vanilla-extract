@@ -11,22 +11,17 @@
   <a href="https://vanilla-extract.style/">Vanilla Extract</a> Zero-runtime Stylesheets in TypeScript.
   <br />
   <br />
-  <br />
   <a href="https://github.com/sindresorhus/awesome">
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome badge">
   </a>
   <br />
-  <h1 align="center">🧁🍨</h1>
+  <font align="center" size="10">🧁🍨</font>
 </p>
 
 ## Contents
 
 - [Useful Links](#useful-links)
 - [Plugins](#plugins)
-<!-- - [Plugins](#plugins)
-- [Tools](#tools)
-- [Starters & Themes](#starters--themes)
-- [Open-Source Projects](#open-source-projects) -->
 - [Learning](#learning)
 
 ## Useful Links
